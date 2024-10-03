@@ -4,7 +4,6 @@
 Welcome to my data analysis portfolio! I'm passionate about leveraging data to create actionable business insights.
 </p>
 <img src="./headshot.jpg" alt="Kevin Reed Headshot" width="200">
----
 
 ## <span style="color: #94d2bd;">Skills</span>
 - **Data Analysis**: Excel, Google Sheets, SQL, Python (pandas, matplotlib)
